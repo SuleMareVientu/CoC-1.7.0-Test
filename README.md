@@ -8,7 +8,8 @@ Sideload CoC 1.7 client iPA from [here](https://www.mediafire.com/file/rluoomohv
 
 Open command prompt and type **`ipconfig`**. Copy the **IPv4 Address** of your internet adapter (Ethernet or Wireless)
 
-Open your iDevice **`/etc/hosts`** with iFile and select **Text Editor**. Add a line to the end with **`your.local.ip game.clashofclans.com`** and SAVE (where **your.local.ip** is your PC's IPv4 address)
+Open your iDevice **`/etc/hosts`** with iFile and select **Text Editor**.
+Add a line to the end with **`your.local.ip game.clashofclans.com`** and SAVE (where **your.local.ip** is your PC's IPv4 address)
 
 Open server folder in command prompt and run **`pip install -r requirements.txt`**
 
