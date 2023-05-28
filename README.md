@@ -1,5 +1,5 @@
 # CoC-1.7.0
-### First open-source server emulator for CoC 1.7.0!
+### First open-source server emulator for CoC 1.7.0 with Python!
 
 ### Required: a JAILBROKEN Apple device (iPhone, iPod, iPad) with iOS 10 or older, the last version with 32-bit apps support and also Appsync Unified tweak from [Karen's Repo](https://cydia.akemi.ai/) and iFile. Everything tested on iOS 6.1.3.
 
